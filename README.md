@@ -1,1 +1,1 @@
-# optativa1
+# django-ai-lab-template
